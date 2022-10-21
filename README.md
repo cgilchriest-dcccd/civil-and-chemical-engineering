@@ -17,3 +17,8 @@ Explore a map jobs and openings in Civil and Chemical Engineering occupations in
 
 ![Civil Engineering Regional Growth](Images/civeng_growth.png)
 ![Chemical Engineering Regional Growth](Images/chemeng_growth.png)
+
+## Top Employers by Occupation
+
+![Civil Engineering Top Employers](Images/civeng_top_emp.png)
+![Chemical Engineering Top Employers](Images/chemeng_top_emp.png)
