@@ -1,6 +1,7 @@
 # Chemical and Civil Engineering in Dallas-Ft.Worth
 ## Contact
 Please contact cgilchriest@dallascollege.edu with questions. 
+
 Access all files via OneDrive [here](https://dcccd-my.sharepoint.com/:f:/g/personal/cmg0003_dcccd_edu/EtNwhx2Q9EJFihxsr1ja5eoBiM1mVRWSOAj1uRbgorWLXg?e=tAEOvF)
 
 ## Map of Local Demand
