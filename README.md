@@ -4,18 +4,14 @@ Please contact cgilchriest@dallascollege.edu with questions.
 
 ## Web Map of Local Demand
 
-
-### Explore a map jobs and openings in Civil and Chemical Engineering occupations in Dallas-Ft.Worth [as its own web page here](https://cgilchriest-dcccd.github.io/civil-and-chemical-engineering/)
-
-
+Explore a map jobs and openings in Civil and Chemical Engineering occupations in Dallas-Ft.Worth [as its own web page here](https://cgilchriest-dcccd.github.io/civil-and-chemical-engineering/)
 
 ## Jobs Near Dallas College Campuses 
 
-![Screenshot1](Images/civengcampus.png)
-
-![Screenshot2](Images/chemengcampus.png)
+![Civil Engineering Jobs by Campus](Images/civengcampus.png)
+![Chemical Engineering Jobs by Campus](Images/chemengcampus.png)
 
 ## Regional Demand
 
-![Screenshot3](Images/civeng_growth.png)
-![Screenshot4](Images/chemeng_growth.png)
+![Civil Engineering Regional Growth](Images/civeng_growth.png)
+![Chemical Engineering Regional Growth](Images/chemeng_growth.png)
