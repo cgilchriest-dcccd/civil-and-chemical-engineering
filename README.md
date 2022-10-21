@@ -1,12 +1,13 @@
-## Chemical and Civil Engineering in Dallas-Ft.Worth
+# Chemical and Civil Engineering in Dallas-Ft.Worth
+## Contact
+Please contact cgilchriest@dallascollege.edu with questions. 
 
 ## Web Map of Local Demand
 
 
 ### Explore a map jobs and openings in Civil and Chemical Engineering occupations in Dallas-Ft.Worth [as its own web page here](https://cgilchriest-dcccd.github.io/civil-and-chemical-engineering/)
 
-## Contact
-Please contact cgilchriest@dallascollege.edu with questions. 
+
 
 ## Jobs Near Dallas College Campuses 
 
